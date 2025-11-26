@@ -1,15 +1,18 @@
 import React from 'react';
-import dataMahasiswa from './data/dataMahasiswa.json';
+import Profile from './components/Profile'; 
 
 function App() {
   const { profile, skills, experiences } = dataMahasiswa;
 
   return (
     <div className="app-container">
-      {/* Cek apakah data terimpor */}
-      <h1>Project CV - {profile.full_name}</h1>
+      {/* 1. Profile Section */}
+      <Profile profile={profile} /> 
+
+      {/* 2. Skills Section */}
+
+      {/* 3. Experiences Section */}
     </div>
   );
 }
-
-export default App;
+// ...
