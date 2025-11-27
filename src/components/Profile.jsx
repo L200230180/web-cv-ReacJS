@@ -1,4 +1,3 @@
-// src/components/Profile.jsx (kode lengkap)
 import React from 'react';
 
 const Profile = ({ profile }) => {
