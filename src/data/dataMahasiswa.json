@@ -3,14 +3,14 @@
   "slug": "aulia-pratama-2103010023",
 
   "profile": {
-    "full_name": "Aulia Pratama",
-    "nim": "2103010023",
+    "full_name": "Umar Albu Khoiri",
+    "nim": "l200230180",
     "prodi": "Teknik Informatika",
-    "angkatan": "2021",
+    "angkatan": "2023",
     "photo_url": "/foto-saya.jpg",
-    "headline": "Fullstack Web Developer | React & Django Enthusiast",
+    "headline": "Web Developer | React Enthusiast",
     "short_bio": "Mahasiswa UMS dengan minat pada pengembangan web fullstack.",
-    "location": "Surakarta, Jawa Tengah",
+    "location": "Boyolali, Jawa Tengah",
     "portfolio_url": "https://auliapratama.com"
   },
 
@@ -19,27 +19,19 @@
       "id": 1,
       "name": "ReactJS",
       "category": "technical",
-      "level": "advanced",
+      "level": "beginner",
       "is_main": true,
-      "years_of_experience": 2,
+      "years_of_experience": 1,
       "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
     },
     {
       "id": 2,
       "name": "Django REST Framework",
       "category": "technical",
-      "level": "intermediate",
+      "level": "beginner",
       "is_main": true,
       "years_of_experience": 1,
       "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
-    },
-    {
-      "id": 3,
-      "name": "Tailwind CSS",
-      "category": "technical",
-      "level": "intermediate",
-      "is_main": false,
-      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
     }
   ],
 
@@ -47,41 +39,52 @@
     {
       "id": 101,
       "title": "Frontend Developer Intern",
-      "organization": "PT Digital Solusi Nusantara",
+      "organization": "PT Fiktif Belaka",
       "experience_type": "internship",
-      "start_date": "2024-07-01",
-      "end_date": "2024-09-30",
+      "start_date": "2027-07-01",
+      "end_date": "2027-09-30",
       "is_current": false,
       "description": "Mengembangkan antarmuka dashboard internal menggunakan React.",
-      "technologies": ["ReactJS", "Tailwind CSS"],
+      "technologies": ["ReactJS"],
       "image_url": "https://cdn.example.com/company/digitalsolusi.png"
-    },
-    {
-      "id": 102,
-      "title": "Head of Web Development Division",
-      "organization": "UKM Informatika UMS",
-      "experience_type": "organization",
-      "start_date": "2023-01-01",
-      "end_date": "2023-12-31",
-      "is_current": false,
-      "description": "Mengkoordinasi tim pengembang web untuk kegiatan UKM.",
-      "image_url": "https://cdn.example.com/logo/ukm-informatika.png"
-    },
-    {
-      "id": 103,
-      "title": "Backend Developer (Freelance)",
-      "organization": "Freelance Project",
-      "experience_type": "project",
-      "start_date": "2024-10-01",
-      "end_date": null,
-      "is_current": true,
-      "description": "Membangun API backend UMKM menggunakan DRF dan PostgreSQL.",
-      "technologies": ["Django", "DRF", "PostgreSQL"],
-      "image_url": "https://cdn.example.com/projects/umkm-inventory.png"
     }
   ],
 
-  "statistics": {
+  "education": [
+    {
+      "id": 1,
+      "degree": "S1 Teknik Informatika",
+      "institution": "Universitas Muhammadiyah Surakarta (UMS)",
+      "years": "2023 - Sekarang",
+      "description": "Fokus pada pengembangan framework web."
+    }
+  ],
+    "projects": [
+      {
+      "id": 1,
+      "title": "Sistem Informasi Akademik Web",
+      "role": "Fullstack Developer",
+      "stack": ["ReactJS", "Django REST Framework", "PostgreSQL"],
+      "description": "Membangun sistem untuk monitoring nilai dan presensi mahasiswa secara real-time.",
+      "link": "https://github.com/L200230180/project_pertama"
+    },
+    {
+      "id": 2,
+      "title": "Blog Pribadi Sederhana",
+      "role": "Frontend Developer",
+      "stack": ["HTML", "CSS", "JavaScript"],
+      "description": "Desain dan implementasi blog pribadi untuk dokumentasi studi dan portofolio.",
+      "link": "https://github.com/tif1330/membangun-website-personal-dengan-html-dan-css-L200230180"
+    }
+  ],
+    "contact": [{
+      "email": "aulia.pratama@example.com",
+      "phone": "+6281234567890",
+      "linkedin": "https://linkedin.com/in/auliapratama",
+      "github": "https://github.com/auliapratama"
+
+  }],
+    "statistics": {
     "views_count": 127,
     "profile_complete_percent": 92
   }
