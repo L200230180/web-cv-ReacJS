@@ -25,6 +25,21 @@ Menggunakan **Tailwind CSS** untuk styling yang cepat, modern, dan responsif seh
 Aplikasi dilengkapi dengan footer yang informatif dan menarik.
 
 ---
+## 🔗 Link Deployment
+
+**Link Aplikasi:**
+
+[Link Aplikasi](https://web-cv-reac-js.vercel.app/)
+
+---
+
+## 🖼 Screenshot Tampilan
+
+### Tampilan CV
+
+![alt text](public/screenshots/image.png)
+
+![alt text](public/screenshots/image1copy.png)
 
 ## 🛠 Cara Menjalankan Aplikasi
 
@@ -71,18 +86,4 @@ Aplikasi akan berjalan di: `http://localhost:5173/`
 
 ---
 
-## 🔗 Link Deployment
 
-**Link Aplikasi:**
-
-[Link Aplikasi](https://web-cv-reac-js.vercel.app/)
-
----
-
-## 🖼 Screenshot Tampilan
-
-### Tampilan CV
-
-![alt text](public/screenshots/image.png)
-
-![alt text](public/screenshots/image1copy.png)
