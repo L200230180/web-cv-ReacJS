@@ -59,10 +59,11 @@ http://localhost:5173/
 
 🔗 Link Deployment
 Link Aplikasi:
-https://web-cv-reac-js.vercel.app/
+
+[Link Aplikasi](https://web-cv-reac-js.vercel.app/)
 
 🖼 Screenshot Tampilan
-/public/screenshots/image.png
+![alt text](public/screenshots/image.png)
 
 🖼 Screenshot Tampilan
-/public/screenshots/image1copy.png
+![alt text](public/screenshots/image1copy.png)
