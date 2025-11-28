@@ -43,3 +43,26 @@ Jika menggunakan Git:
 ```bash
 git clone [Link Repository Proyek Anda]
 cd [Nama Folder Proyek]
+
+2. Instal Dependensi
+npm install
+# ATAU
+yarn install
+
+3. Jalankan Aplikasi
+npm run dev
+# ATAU
+yarn dev
+
+Aplikasi akan berjalan di:
+http://localhost:5173/
+
+🔗 Link Deployment
+Link Aplikasi:
+https://web-cv-reac-js.vercel.app/
+
+🖼 Screenshot Tampilan
+/public/screenshots/image.png
+
+🖼 Screenshot Tampilan
+/public/screenshots/image1copy.png
